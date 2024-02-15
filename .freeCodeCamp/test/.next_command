@@ -108,3 +108,5 @@ ls/
 clear
 help
 ls --color=auto /
+cd bin
+ls --color=auto /bin
