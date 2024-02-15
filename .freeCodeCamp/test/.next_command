@@ -189,3 +189,4 @@ declare -p
 clean
 clean
 declare -p ARR
+clear
