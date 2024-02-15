@@ -196,3 +196,5 @@ echo ${RESPONSES[5]}
 clear
 ./fortune.sh
 help
+clear
+help function
