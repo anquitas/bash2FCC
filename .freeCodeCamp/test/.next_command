@@ -131,3 +131,4 @@ printenv
 enho $LANG
 echo $LANG
 declare -p
+echo $RANDOM
