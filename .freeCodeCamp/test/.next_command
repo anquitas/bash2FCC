@@ -254,3 +254,4 @@ __vsc_prompt_cmd_original
 clear
 touch five.sh
 chmod +x five.sh
+./five.sh
