@@ -34,3 +34,6 @@ ls --color=auto -l
 -rw-r--r-- 1 gitpod gitpod 36 Feb 15 04:15 questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+echo $QUESTION1
+./questionnaire.sh
+echo $QUESTION1
