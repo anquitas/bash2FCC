@@ -121,3 +121,4 @@ clear
 ./countdown.sh 1
 help
 help while
+clear
