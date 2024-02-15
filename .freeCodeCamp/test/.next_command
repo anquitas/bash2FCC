@@ -103,3 +103,8 @@ help
 clear
 ./countdown.sh 10
 help
+ls/
+10
+clear
+help
+ls --color=auto /
