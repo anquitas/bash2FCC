@@ -110,3 +110,4 @@ help
 ls --color=auto /
 cd bin
 ls --color=auto /bin
+man sleep
