@@ -193,3 +193,5 @@ clear
 echo ${ARR[5]}
 echo ${RESPONSES[<index>]}
 echo ${RESPONSES[5]}
+clear
+./fortune.sh
