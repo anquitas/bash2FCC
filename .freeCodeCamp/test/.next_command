@@ -122,3 +122,4 @@ clear
 help
 help while
 clear
+./countdown.sh 5
