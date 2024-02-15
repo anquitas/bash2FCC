@@ -266,3 +266,4 @@ type
 help type
 type echo
 type read
+type if
