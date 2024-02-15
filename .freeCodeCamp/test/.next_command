@@ -114,3 +114,7 @@ man sleep
 sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
+./countdowsn.sh 3
+./countdown.sh 3
+clear
+./countdown.sh 3
