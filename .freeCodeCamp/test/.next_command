@@ -123,3 +123,5 @@ help
 help while
 clear
 ./countdown.sh 5
+clear
+touch bingo.sh
