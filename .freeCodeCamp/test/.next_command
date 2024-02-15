@@ -31,3 +31,5 @@ ls --color=auto -l
 chmod +x questionnaire.sh
 ls --color=auto -k
 ls --color=auto -l
+-rw-r--r-- 1 gitpod gitpod 36 Feb 15 04:15 questionnaire.sh
+./questionnaire.sh
