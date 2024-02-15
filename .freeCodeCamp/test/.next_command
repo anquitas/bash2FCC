@@ -62,3 +62,7 @@ countdown.sh arg1
 ./countdown.sh arg1
 ./countdown.sh lantea
 ./countdown.sh lantea
+git remote set-url origin https://github.com/anquitas/bash2FCC.git
+git branch -M main
+git push -u origin main
+./countdown.sh 4
